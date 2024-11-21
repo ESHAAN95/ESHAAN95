@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hey+There!+👋;+I'm+Eshaan+Shetty!;+Also+Know+As+ES!" alt="Typing SVG">
     </h1>
     <h2 align="left">💫 About Me:</h2>
-    <h3>🏫 College:<br>Maps College Mangalore</h3>
+    <h3>🏫 College:<br>Maps College ,📍Mangalore</h3>
     <h2 align="left">🌐 Connect with me:</h2>
     <a href="https://instagram.com/itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
     <a href="https://x.com/@itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
