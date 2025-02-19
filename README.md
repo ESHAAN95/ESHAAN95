@@ -16,13 +16,10 @@
         <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet,git,swift" alt="Skills Row 1"><br>
         <img src="https://skillicons.dev/icons?i=java,mysql,python,r,github,vscode,pycharm,linux,apple" alt="Skills Row 2"><br>
     </div>
-    <h2 align="left">📊 LeetCode & Roadmap.sh Stats:</h2>
-    <img src="https://leetcard.jacoblin.cool/eshaan95?theme=dark" alt="LeetCode Stats">
     <h2 align="left">📊 GitHub Stats:</h2>
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=eshaan95&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats"><br>
     </div>
-    <img src="https://raw.githubusercontent.com/SHADOW269/SHADOW269/output/snake.svg" alt="Snake Animation">
 </body>
 
 </html>
