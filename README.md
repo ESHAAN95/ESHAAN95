@@ -9,7 +9,7 @@
     <h2 align="left">🌐 Connect with me:</h2>
     <a href="https://instagram.com/itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
     <a href="https://x.com/@itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
-    <a href="https://linkedin.com/in/эsнааи-sнэттy-376354327/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/eshaan-shetty-376354327/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
     <a href="https://discord.gg/itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
     <h2>⚒️ Languages-Frameworks-Tools</h2>
     <div>
