@@ -13,8 +13,8 @@
     <a href="https://discord.gg/itseshaanshetty" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
     <h2>⚒️ Languages-Frameworks-Tools</h2>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet,git,swift" alt="Skills Row 1"><br>
-        <img src="https://skillicons.dev/icons?i=java,mysql,python,r,github,vscode,pycharm,linux,apple" alt="Skills Row 2"><br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet,java,apple" alt="Skills Row 1"><br>
+        <img src="https://skillicons.dev/icons?i=git,mysql,python,r,github,vscode,pycharm,linux,windows" alt="Skills Row 2"><br>
 	<img src="https://skillicons.dev/icons?i=php,react,django,flask,mongodb,redis,docker,kubernetes,jenkins," alt="Skills Row 2"><br>
     </div>
     <h2 align="left">📊 GitHub Stats:</h2>
